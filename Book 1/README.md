@@ -136,7 +136,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### Desecrated Vault (120xp, moderate threat)
 
   - **Creatures:** 
-    - 4x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
+    - 6x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
     - should be one skeleton for each PC in the investigating party.
   - **Loot:** none
 
@@ -149,8 +149,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### The Boar Hunt (120xp, moderate threat)
 
   - **Creatures:**
-    - 2x
-    -  [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52). The boar is a particularly large example of the species.
+    - 2x [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52). The boar is a particularly large example of the species.
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
@@ -179,13 +178,14 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### Against the goblins part 1 (up to 160xp, extreme threat)
 
   - **Creatures:**
-    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 9x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** None
 
 ### Against the Goblins Part 2 (180xp+, severe threat)
 
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
+    - 3x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
     - Note that Tsuto is a severe threat and feedback is he can sometimes be too much. If you have an inexperienced, smaller or beat up party, or extra goblins, it is strongly recommended you apply the [weak](http://2e.aonprd.com/Rules.aspx?ID=791) template.
     - [Tsuto PDF](./Statblocks/TsutoKaijitsu.pdf)
     - ![Tsuto PNG](./Statblocks/TsutoKaijitsu.png)
@@ -249,7 +249,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Loot:**
     - [Scroll of Flaming Sphere (level 2)](https://2e.aonprd.com/Spells.aspx?ID=121) (C3), Perception DC 19
 
-### B9. Prisoner Pits (100xp, moderate threat, plus 20xp for dealing with the zombies)
+### B9. Prisoner Pits (120xp, moderate threat, plus 20xp for dealing with the zombies)
 
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
@@ -306,7 +306,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### C4. Refugees Nest (180xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
-    - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 9x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
 
 ### C5. Kennel (180xp, severe threat, plus 40xp for terrain)
 
@@ -317,6 +317,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (120xp, moderate threat, plus 40xp for terrain)
   - Note that Gogmurt might be a good choice to start a goblin PC if that is wanted in your campaign. 
   - **Creatures:**
+  - 
     - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
     - ![Gogmurt PNG](./Statblocks/Gogmurt.png)
     - [Tangletooth PDF](./Statblocks/Tangletooth.pdf)
@@ -358,7 +359,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Loot:**
     - A pearl handled dagger worth 13gp.
 
-### C13. Pickle Thieves (600xp, trivial threat)
+### C13. Pickle Thieves (60xp, trivial threat)
 
   - **Creatures:**
     - 2x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
