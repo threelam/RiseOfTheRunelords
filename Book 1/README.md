@@ -108,17 +108,18 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:** 
     - 3x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) - these have [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) to set fire to wooden buildings. See loot below.
-    - 2x [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
+    - 1x [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
     - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
+    -  1x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** 3 vials of [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) (C1) that the goblins are using to burn wooden houses.
  
-### Die Dog Die! (150xp, severe threat)
+### Die Dog Die! (180xp, severe threat)
 
   - **Creatures:** 
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
     - [Mounted Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233). The goblin commando has a [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) on his bow, increasing his to hit by 1.
     - During Combat The goblin commando uses the superior mobility of his mount by using the Command An Animal action each round to remain out of melee so he can shoot at the PCs with his bow from dogback. If all of his goblin warriors are defeated, he drops his bow and races in to fight the PCs in melee.
-    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 5x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG if stats are required
   - **Loot:** [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
 
