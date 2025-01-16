@@ -220,7 +220,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### B1. Guard Cave (60xp, trivial threat)
 
   - **Creatures:**
-    - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
+    - 2x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
   - **Loot:** None
 
 ### B3. Welcoming Chamber
@@ -231,7 +231,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### B4. Washing Pool (60xp, trivial threat)
 
   - **Creatures:**
-    - [Vargouille PDF](./Statblocks/Vargouille.pdf) (Note there is an official Vargouille in Agents of Edgewatch) 
+    - 2x [Vargouille PDF](./Statblocks/Vargouille.pdf) (Note there is an official Vargouille in Agents of Edgewatch) 
 
     - ![Vargouille PNG](./Statblocks/Vargouille.png)
     
@@ -242,7 +242,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### B6. Ancient Prison (120xp, moderate threat)
 
   - **Creatures:**
-    - 2x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
+    - 3x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
 
 ### B8. Ancient Study
 
@@ -281,7 +281,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### B13. Cathedral of Wrath (180xp, severe threat, plus 120xp for deactivating the runewell)
 
   - **Creatures:**
-    - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
+    - 2x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
     - [Erylium PDF](./Statblocks/Erylium.pdf)
     - ![Erylium PNG](./Statblocks/Erylium.png)
 
@@ -306,8 +306,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### C4. Refugees Nest (180xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
-    - 9x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-
+    - 12x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+ === continue here. https://maxiride.github.io/pf2e-encounters/#/
 ### C5. Kennel (180xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
