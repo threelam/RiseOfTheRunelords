@@ -98,21 +98,21 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - During the festival raid the goblins are not at all tactical and are there to cause chaos, set fire to things and loot as much as possible. Many will stuff their pockets or loot sacks with whatever they can lay their hands on: e.g. meat, fruit, (not vegetables!), bread, tankards, cups, cutlery, cooking utensils, pans, children's toys, wood carvings, souvenirs, jewelry, hats, chickens, butterflies, babies... 
   - Play the goblins as easily distracted by these activites.
 
-### Initial Assault (60xp, low threat)
+### Initial Assault (100xp, low threat)
 
  - **Creatures:** 
-    - 3x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 5x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
  - **Loot:** [Everburning Torch](https://2e.aonprd.com/Equipment.aspx?ID=255) (P1) that one of the goblins is using to try and set fire to things!
 
-### Goblin Pyros (120xp, severe threat)
+### Goblin Pyros (180xp, severe threat)
 
   - **Creatures:** 
-    - 2x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) - these have [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) to set fire to wooden buildings. See loot below.
-    - [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
+    - 3x[Goblin Pyro](http://2e.aonprd.com/Monsters.aspx?ID=234) - these have [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) to set fire to wooden buildings. See loot below.
+    - 2x [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
     - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
   - **Loot:** 3 vials of [Lesser Alchemists Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) (C1) that the goblins are using to burn wooden houses.
  
-### Die Dog Die! (140xp, severe threat)
+### Die Dog Die! (150xp, severe threat)
 
   - **Creatures:** 
     - [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
@@ -132,7 +132,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
 ## Part 2: Local Heroes (260xp, Party level 1)
 
-### Desecrated Vault (80xp, moderate threat)
+### Desecrated Vault (120xp, moderate threat)
 
   - **Creatures:** 
     - 4x [Skeleton Guard](http://2e.aonprd.com/Monsters.aspx?ID=372) - Explosive Death
@@ -145,10 +145,11 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [Ven Vinder using Orc Brute for stats](https://2e.aonprd.com/Monsters.aspx?ID=324), AC15, HP15; (>>)Power Attack fist +7: dmg 2d4+3, nonlethal 
   - **XP:** 20xp for beating him, 30xp for intimidate or deception, 40xp for Diplomacy without hurting his daughters feelings.
 
-### The Boar Hunt (80xp, moderate threat)
+### The Boar Hunt (120xp, moderate threat)
 
   - **Creatures:**
-    - 1x elite [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52). The boar is a particularly large example of the species.
+    - 2x
+    -  [Boar](https://2e.aonprd.com/Monsters.aspx?ID=52). The boar is a particularly large example of the species.
     - [Aldern Foxglove - Noble](https://2e.aonprd.com/NPCs.aspx?ID=882) use the noble from the GMG
     - [Aldern's Servants](https://2e.aonprd.com/NPCs.aspx?ID=912) use the servants from the GMG 
   - **Loot:**
@@ -180,7 +181,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
   - **Loot:** None
 
-### Against the Goblins Part 2 (120xp+, severe threat)
+### Against the Goblins Part 2 (180xp+, severe threat)
 
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
@@ -215,7 +216,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
 ## Part 3B. Catacombs of Wrath (490xp, Party Level 2) 
 
-### B1. Guard Cave (40xp, trivial threat)
+### B1. Guard Cave (60xp, trivial threat)
 
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
@@ -226,7 +227,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Loot:**
     - Ancient Ornamental Ranseur (a long trident with a central prong that's longer than the other two); moderate art object worth 55gp
 
-### B4. Washing Pool (40xp, trivial threat)
+### B4. Washing Pool (60xp, trivial threat)
 
   - **Creatures:**
     - [Vargouille PDF](./Statblocks/Vargouille.pdf) (Note there is an official Vargouille in Agents of Edgewatch) 
@@ -237,7 +238,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [Divine Warden of Lamashtu](./Statblocks/DivineWardenofLamashtu.pdf)
     - ![Divine Warden of Lamashtu PNG](./Statblocks/DivineWardenofLamashtu.png)
 
-### B6. Ancient Prison (80xp, moderate threat)
+### B6. Ancient Prison (120xp, moderate threat)
 
   - **Creatures:**
     - 2x [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
@@ -247,7 +248,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Loot:**
     - [Scroll of Flaming Sphere (level 2)](https://2e.aonprd.com/Spells.aspx?ID=121) (C3), Perception DC 19
 
-### B9. Prisoner Pits (60xp, moderate threat, plus 20xp for dealing with the zombies)
+### B9. Prisoner Pits (100xp, moderate threat, plus 20xp for dealing with the zombies)
 
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
@@ -276,7 +277,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Loot:**
     - 4 doses of unholy water (not included in level based treasure as unlikely to have any utility, though may have some creative uses)
 
-### B13. Cathedral of Wrath (120xp, severe threat, plus 120xp for deactivating the runewell)
+### B13. Cathedral of Wrath (180xp, severe threat, plus 120xp for deactivating the runewell)
 
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
@@ -301,18 +302,18 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - Shalelu should have forewarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements. Use an appropriate level Shalelu, possibly GMG Weak/Normal/Elite [Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) 
   - The terrain for all encounters here increases the threat level by one step - and adds bonus XP appropriately (as if the creatures encountered were 1 level higher).
 
-### C4. Refugees Nest (120xp, severe threat, plus 40xp for terrain)
+### C4. Refugees Nest (180xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
     - 8x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
 
-### C5. Kennel (120xp, severe threat, plus 40xp for terrain)
+### C5. Kennel (180xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
   - this encounter can be bypassed. If successfully bypassed award the same xp.
 
-### C6/7. Tangletooth's Den and Gogmurt's Lair (80xp, moderate threat, plus 40xp for terrain)
+### C6/7. Tangletooth's Den and Gogmurt's Lair (120xp, moderate threat, plus 40xp for terrain)
   - Note that Gogmurt might be a good choice to start a goblin PC if that is wanted in your campaign. 
   - **Creatures:**
     - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
@@ -329,7 +330,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
  - **Loot:** 
     - [Staff of Fire](https://2e.aonprd.com/Equipment.aspx?ID=356) (P3)
 
-### C27. Bunyip Lair (60xp, low threat, plus 20xp terrain)
+### C27. Bunyip Lair (100xp, low threat, plus 20xp terrain)
 
   - **Creatures:**
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
@@ -346,7 +347,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [Rigged Rope Bridge](./Statblocks/RiggedRopeBridge.pdf) 
     - ![Rigged Rope Bridge PNG](./Statblocks/RiggedRopeBridge.png) 
 
-### C10. Thistletop (120xp, severe threat)
+### C10. Thistletop (180xp, severe threat)
 
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
@@ -356,22 +357,22 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Loot:**
     - A pearl handled dagger worth 13gp.
 
-### C13. Pickle Thieves (40xp, trivial threat)
+### C13. Pickle Thieves (600xp, trivial threat)
 
   - **Creatures:**
     - 2x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
 
-### C14. Barracks (60xp, low threat)
+### C14. Barracks (100xp, low threat)
 
   - **Creatures:**
     - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
 
-### C15. Eastern Guard Tower (40xp, trivial threat)
+### C15. Eastern Guard Tower (60xp, trivial threat)
 
   - **Creatures:**
     - 2x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
 
-### C16. Exercise Yard (80xp)
+### C16. Exercise Yard (120xp)
 
   - **Creatures:**
     - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
@@ -382,7 +383,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [War Horse](https://2e.aonprd.com/Monsters.aspx?ID=268)
     - If made friendly then Shadowmist the war horse can be calmed with the Command Animal action (untrained Nature check) vs the Horses will DC of 16.
 
-### C19. Throne Room (160xp, extreme threat)
+### C19. Throne Room (240xp, extreme threat)
 
   - **Creatures:**
     - [Warchief Ripnugget PDF](./Statblocks/WarchiefRipnugget.pdf)  
@@ -416,7 +417,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
 ## Thistletop Dungeon Level 1 (340xp, Assumed party level 3)
 
-### D2. Chieftan's Harem (80xp, moderate threat)
+### D2. Chieftan's Harem (120xp, moderate threat)
 
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
@@ -428,7 +429,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
       - [Tanglefoot bag, moderate](https://2e.aonprd.com/Equipment.aspx?ID=78) (C3)
       - [Feather Token, Holly Bush](https://2e.aonprd.com/Equipment.aspx?ID=244) (C2)
 
-### D4b. Orik's Chambers (60xp, low threat)
+### D4b. Orik's Chambers (120xp, low threat)
 
   - **Creatures:**
     - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
@@ -440,18 +441,18 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186) (C3)
     - [Sleep Arrow](https://2e.aonprd.com/Equipment.aspx?ID=166) (C3)
 
-### D7. Tentamort Hunting Grounds (60xp, low threat)
+### D7. Tentamort Hunting Grounds (120xp, low threat)
 
   - **Creatures:**
     - 1x [Tentamort PDF](./Statblocks/Tentamort.pdf)  
     - ![Tentamort PNG](./Statblocks/Tentamort.png)
 
-### D12. Chapel to Lamashtu (80xp, moderate threat)
+### D12. Chapel to Lamashtu (120xp, moderate threat)
 
   - **Creatures:**
     - 2x [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
 
-### D15. Research Room (60xp, low threat)
+### D15. Research Room (100xp, low threat)
 
   - **Creatures:**
     - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
@@ -475,7 +476,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [Slashing Cage Trap](./Statblocks/SlashingCageTrap.pdf) 
     - ![Slashing Cage Trap PNG](./Statblocks/SlashingCageTrap.png) 
 
-### E4. Observation Deck (120xp, severe threat)
+### E4. Observation Deck (180xp, severe threat)
 
   - **Creatures:**
     - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
@@ -496,13 +497,13 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [Tiger Menuki Talisman](https://2e.aonprd.com/Equipment.aspx?ID=236) (C5)
     
  
-### E6. Crypt (80xp, moderate threat)
+### E6. Crypt (120xp, moderate threat)
 
   - **Creatures:**
     - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
     - Note that standard Shadows are a much higher threat in 2E, so reduced numbers and weakened. 
 
-### E7. Collapsed Treasury (80xp, moderate threat)
+### E7. Collapsed Treasury (120xp, moderate threat)
 
   - **Creatures:**
     - [Giant Hermit Crab](http://2e.aonprd.com/Monsters.aspx?ID=1107) 
@@ -517,7 +518,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [+1 Armor Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=24) (P5)
     - Tools worth 5gp
 
-### E10. Malfeshnekor's Prison (160xp, extreme threat)
+### E10. Malfeshnekor's Prison (240xp, extreme threat)
 
   - **Creatures:**
     - [Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
