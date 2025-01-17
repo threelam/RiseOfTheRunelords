@@ -51,7 +51,7 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 [Treasure allocation approach](https://docs.google.com/spreadsheets/d/18jlGuaCs5O1qm3dP0zck3_I4YpZK4_aEerwI_J5LOnk/)
 
 Threat |	XP Budget	|Character Adjustment
----------------------------------------
+-------|------------|--------------------
 Trivial|	40 or less|	10 or less
 Low	|60	|20
 Moderate| 80	|20
@@ -59,7 +59,7 @@ Severe	|120	|30
 Extreme	|160	|40
 
 Threat |	XP Budget
--------------------
+-------|------------
 Trivial|	60 or less
 Low	|100	
 Moderate| 120	
