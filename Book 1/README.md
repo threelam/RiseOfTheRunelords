@@ -50,6 +50,23 @@ Lv4   | 860gp    | **5th:** 2 **4th:** 2 | **5th:** 2 **4th:** 2 **3rd:** 2 | 20
 
 [Treasure allocation approach](https://docs.google.com/spreadsheets/d/18jlGuaCs5O1qm3dP0zck3_I4YpZK4_aEerwI_J5LOnk/)
 
+Threat |	XP Budget	|Character Adjustment
+---------------------------------------
+Trivial|	40 or less|	10 or less
+Low	|60	|20
+Moderate| 80	|20
+Severe	|120	|30
+Extreme	|160	|40
+
+Threat |	XP Budget
+-------------------
+Trivial|	60 or less
+Low	|100	
+Moderate| 120	
+Severe	|180	
+Extreme	|240	
+
+
 This adventure contains all treasure for 1st through 4th levels.
 
 The wealth to level chart was followed such that the treasure explicitly laid out in the "loot" sections adds up to exactly 1,835 GP in value (175 gp + 300 gp + 500 gp + 860 gp). Permanent items and consumables matching the guidelines were provided (i.e. 2x 1st level and 2x 2nd level permanent items for Level 1).
