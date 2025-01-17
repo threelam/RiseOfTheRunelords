@@ -324,17 +324,19 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - 12x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
- === continue here. https://maxiride.github.io/pf2e-encounters/#/
+
 ### C5. Kennel (180xp, severe threat, plus 40xp for terrain)
 
   - **Creatures:**
-    - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
+    - 6x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
   - this encounter can be bypassed. If successfully bypassed award the same xp.
 
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (120xp, moderate threat, plus 40xp for terrain)
   - Note that Gogmurt might be a good choice to start a goblin PC if that is wanted in your campaign. 
   - **Creatures:**
-  - 
+  -  - 1x [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
+    - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
+    -  1x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
     - ![Gogmurt PNG](./Statblocks/Gogmurt.png)
     - [Tangletooth PDF](./Statblocks/Tangletooth.pdf)
@@ -353,6 +355,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - [Bunyip](http://2e.aonprd.com/Monsters.aspx?ID=62)
+    - Elite
   - **Loot:** 
     - As this is an optional encounter no loot has been placed here. If they do defeat the Bunyip, this would be a good place to put some treasure that was missed earlier. 
 
@@ -369,8 +372,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### C10. Thistletop (180xp, severe threat)
 
   - **Creatures:**
-    - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-    - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 6x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
     
 ### C11. Trophy Hall
   - **Loot:**
@@ -379,22 +382,23 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### C13. Pickle Thieves (60xp, trivial threat)
 
   - **Creatures:**
-    - 2x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
+    - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
 
 ### C14. Barracks (100xp, low threat)
 
   - **Creatures:**
     - 6x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 2x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
 
 ### C15. Eastern Guard Tower (60xp, trivial threat)
 
   - **Creatures:**
-    - 2x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
+    - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
 
 ### C16. Exercise Yard (120xp)
 
   - **Creatures:**
-    - 4x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
+    - 6x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236)
 
 ### C18. Caged Horse (30xp, trivial threat)
 
@@ -406,11 +410,13 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - [Warchief Ripnugget PDF](./Statblocks/WarchiefRipnugget.pdf)  
-    - ![Warchief Ripnugget PNG](./Statblocks/WarchiefRipnugget.png)  
+    - ![Warchief Ripnugget PNG](./Statblocks/WarchiefRipnugget.png)
+    - ELITE
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
-    - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
-  
+    - 2x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
+    - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+
   - **Loot:**
     - [+1 Weapon Potency Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P2)
     - [+1 Striking Rune](https://2e.aonprd.com/Equipment.aspx?Category=23&Subcategory=25) (P4)
@@ -440,6 +446,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
+    - 2X [Goblin Pyro]
     - [Bruthazmus PDF](./Statblocks/Bruthazmus.pdf)  
     - ![Bruthazmus PNG](./Statblocks/Bruthazmus.png)
     - **Loot:**
@@ -453,6 +460,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
   - **Creatures:**
     - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
     - ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
+    - 2x [Bodyguard] (https://2e.aonprd.com/NPCs.aspx?ID=921)
   - **Tactics:**
     - If his HP drop below half or his shield breaks, Orik can be persuaded to fight with the PCs or to just leave.
   - **Loot:**
@@ -460,18 +468,19 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
     - [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186) (C3)
     - [Sleep Arrow](https://2e.aonprd.com/Equipment.aspx?ID=166) (C3)
 
-### D7. Tentamort Hunting Grounds (120xp, low threat)
+### D7. Tentamort Hunting Grounds (100xp, low threat)
 
   - **Creatures:**
-    - 1x [Tentamort PDF](./Statblocks/Tentamort.pdf)  
+    - 2x [Tentamort PDF](./Statblocks/Tentamort.pdf)  
     - ![Tentamort PNG](./Statblocks/Tentamort.png)
+    - (Weak)
 
 ### D12. Chapel to Lamashtu (120xp, moderate threat)
 
   - **Creatures:**
-    - 2x [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
+    - 3x [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
 
-### D15. Research Room (100xp, low threat)
+### D15. Research Room (60xp, low threat)
 
   - **Creatures:**
     - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
@@ -498,8 +507,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### E4. Observation Deck (180xp, severe threat)
 
   - **Creatures:**
-    - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
-    - [Nualia PDF](./Statblocks/NualiaTobyn.pdf) 
+    - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)(elite)
+    - [Nualia PDF](./Statblocks/NualiaTobyn.pdf) (elite)
     - ![Nualia PNG](./Statblocks/NualiaTobyn.png) 
 
   - **Tactics**
@@ -519,13 +528,13 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### E6. Crypt (120xp, moderate threat)
 
   - **Creatures:**
-    - 2x [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
+    - 2x [Shadows](https://2e.aonprd.com/Monsters.aspx?ID=362)
     - Note that standard Shadows are a much higher threat in 2E, so reduced numbers and weakened. 
 
 ### E7. Collapsed Treasury (120xp, moderate threat)
 
   - **Creatures:**
-    - [Giant Hermit Crab](http://2e.aonprd.com/Monsters.aspx?ID=1107) 
+    - 2x [Giant Hermit Crab][weak](http://2e.aonprd.com/Monsters.aspx?ID=1107) 
   - **Loot:**
     - Divide all book treasure values by 20
 
@@ -540,7 +549,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### E10. Malfeshnekor's Prison (240xp, extreme threat)
 
   - **Creatures:**
-    - [Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43)
+    - [Greater Barghest](https://2e.aonprd.com/Monsters.aspx?ID=43) (ELITE)
 
 ### Eliminating the Thistletop Menace (80xp major award and hero point)
 
