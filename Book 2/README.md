@@ -35,6 +35,24 @@ Apply [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) or [Elite](http://2e.aonprd
 If they are finding it hard going then liberally apply weak templates or remove minions. 
 If they are breezing through, then liberally apply elite templates or add minions. 
 
+
+|	XP Budget	
+|------------
+|	40 or less
+|60
+| 80
+|120
+|160	
+
+Threat  |	XP Budget | Normal
+--------|-----------|-------
+Trivial | 60 or less| 40
+Low	    | 100	      | 60
+Moderate| 120	      | 80
+Severe	| 180	      | 120
+Extreme	| 240	      | 160
+
+
 ## Part 1: Murder Most Foul (XP 240, Party Level 4)
 
 ### Sandpoint Lumber Mill (40+40+60xp)
@@ -48,16 +66,16 @@ If they are breezing through, then liberally apply elite templates or add minion
 
 ## Part 2: The Thing in the Attic (210xp, Party Level 5)
 
-### A5 (40xp, trivial threat)
-  - For Gortus and Gurnak use [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888) with darkvision and a level 2 innate darkness cantrip ability.
+### A5 (60xp, trivial threat)
+  - 2x For Gortus and Gurnak use [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888) with darkvision and a level 2 innate darkness cantrip ability.
 
-### A11 (40xp, trivial threat)
-  - Pidget Tergelson (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Large WereRat or WereFirepeltCougar (using the Weretiger)](https://2e.aonprd.com/Monsters.aspx?ID=858)
+### A11 (60xp, trivial threat)
+  - 2x Pidget Tergelson (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Large WereRat or WereFirepeltCougar (using the Weretiger)](https://2e.aonprd.com/Monsters.aspx?ID=858)
 
 ### A15 (60xp, low threat)
   - 4 (L2) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
 
-### A16 (80xp, moderate threat)
+### A16 (120xp, moderate threat)
   - Erin Habe [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
   - Grayst Sevilla [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
   - Caizarlu Zerren use either: [Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929)
@@ -73,11 +91,11 @@ If they are breezing through, then liberally apply elite templates or add minion
   - 6 Ghoul Scarecrows 
   - There are 1.5 Ghoul Scarecrows for each PC (round up)
 
-### A1 Barn (120xp, severe threat, though may split up)
+### A1 Barn (180xp, severe threat, though may split up)
   - 3 Ghoul Scarecrows 
   - Split them up or remove one Ghoul Scarecrow if your players are having difficulty with the paralysis effect
 
-### A2 Farmhouse (100xp, moderate threat)
+### A2 Farmhouse (120xp, moderate threat)
   - [Rogors Craesby Ghast](./Statblocks/RogorsCraesby.pdf)
   - ![Rogors Craesby Ghast PNG](./Statblocks/RogorsCraesby.png)
   - 1 Ghoul Scarecrow
@@ -85,28 +103,28 @@ If they are breezing through, then liberally apply elite templates or add minion
   - note multiple incapacitation effects can quickly overpower
 ## Part 4: Misgivings (80+160+135+120+390=885xp, Party Level 5/6)
 
-## Ruined Outbuildings (80xp, Party Level 5 or 6)
+## Ruined Outbuildings (120xp, Party Level 5 or 6)
 
-### B1 (80xp, moderate threat)
+### B1 (120xp, moderate threat)
   - For Carrionstorms use 4 [Undead Raven Swarms](http://2e.aonprd.com/Monsters.aspx?ID=782)
   - if party is level 6 add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)
 
-## Ground Floor (160xp, Party Level 5)
+## Ground Floor (240xp, Party Level 5)
 
-### B2 (30xp, trivial threat)
+### B2 (60xp, trivial threat)
   - Burning Manticore ![Burning Manticore PNG](./Statblocks/BurningManticore.png)
 
-### B5 (30xp, trivial threat)
+### B5 (60xp, trivial threat)
   - Worried Wife ![Worried Wife PNG](./Statblocks/WorriedWife.png)
 
-### B6 (40xp, trivial threat)
+### B6 (60xp, trivial threat)
   - Vorel's Phage [Vorels Phage PDF](./Statblocks/VorelsPhage.pdf) 
   - ![Vorels Phage PNG](./Statblocks/VorelsPhage.png)
 
-### B7 (20xp, trivial threat) 
+### B7 (40xp, trivial threat) 
   - Dance of Ruin ![Dance of Ruin PNG](./Statblocks/DanceOfRuin.png)
 
-### B9 (40xp, trivial threat)
+### B9 (60xp, trivial threat)
   - Iesha's Vengeance ![Iesha's Vengeance PNG](./Statblocks/IeshasVengeance.png)
   
 ## Upper Floor (135xp,Party Level 6)
@@ -142,29 +160,29 @@ If they are breezing through, then liberally apply elite templates or add minion
 
 ## Basement (410xp,Party Level 6)
 
-### B25 (60xp, low threat)
+### B25 (100xp, low threat)
   - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
 
-### B29 (40xp, trivial threat)
+### B29 (60xp, trivial threat)
   - Origins of Lichdom ![Origins of Lichdom PNG](./Statblocks/OriginsOfLichdom.png)
 
-### B30 (20xp, trivial threat)
+### B30 (40xp, trivial threat)
   - Ghoulish Uprising ![Ghoulish Uprising PNG](./Statblocks/GhoulishUprising.png)
 
 ### B33 (10xp, trivial threat)
   - [Brown Mold](https://2e.aonprd.com/Hazards.aspx?ID=35)
 
-### B34 (60xp, low threat)
+### B34 (100xp, low threat)
   - 2 [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) Rogors Craesby Ghasts (see above)
 
-### B35 (80xp, moderate threat)
+### B35 (120xp, moderate threat)
   - 2 Rogors Craesby Ghasts (see above)
 
-### B36 (40xp, trivial threat)
+### B36 (60xp, trivial threat)
   - 4 (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
   - ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
    
-### B37 (100xp, moderate threat)
+### B37 (120xp, moderate threat)
   - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
   - ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
 
@@ -172,7 +190,7 @@ If they are breezing through, then liberally apply elite templates or add minion
 
 ## Part 5: Chasing The Skinsaw (90xp, Party Level 6)
 
-### Foxglove Townhouse (90xp, moderate threat)
+### Foxglove Townhouse (120xp, moderate threat)
 
   - **Creatures:** 3x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
   - Foxglove's housekeeper/cook/sister is also present as the third stalker as best fits your narrative
@@ -186,18 +204,18 @@ If they are breezing through, then liberally apply elite templates or add minion
 
 ## Part 7: Shadows of Time (285xp, Party Level 7)
 
-### E1 (60xp, low threat)
+### E1 (100xp, low threat)
   - Scarecrow
   - ![Scarecrow PNG](./Statblocks/Scarecrow.png)
 
 ### E2 (15xp, trivial threat)
   - Falling Bell: Use the [Scythe Blades Hazard](https://2e.aonprd.com/Hazards.aspx?ID=6) with bludgeoning damage
 
-### E3 (80xp, moderate threat)    
+### E3 (100xp, moderate threat)    
   - 4x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
   - Use a suitable form for the stalkers to throw your players off balance and make it chaotic e.g. Xanesha's human form, Ironbriar, The Mayor, City Guard
 
-### E6 (80-120xp, moderate to severe threat) 
+### E6 (120-160xp, moderate to severe threat) 
   - Note the terrain here adds to the threat level
   - Xanesha (L9) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
     - Add Feather Fall to her prepared spells
