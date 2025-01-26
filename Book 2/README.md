@@ -72,13 +72,13 @@ Extreme	| 240	      | 160
 ### A11 (60xp, trivial threat)
   - 2x Pidget Tergelson (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Large WereRat or WereFirepeltCougar (using the Weretiger)](https://2e.aonprd.com/Monsters.aspx?ID=858)
 
-### A15 (60xp, low threat)
-  - 4 (L2) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
+### A15 (100xp, low threat)
+  - 7 (L2) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
 
 ### A16 (120xp, moderate threat)
   - Erin Habe [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
   - Grayst Sevilla [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
-  - Caizarlu Zerren use either: [Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929)
+  - Caizarlu Zerren use either: [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929)
   - or ![Caizarlu Zerren PNG](./Statblocks/CaizarluZerren.png)
   - ![Caizarlu Zerren Spells PNG](./Statblocks/CaizarluZerrenSpells.png)
 
@@ -92,13 +92,13 @@ Extreme	| 240	      | 160
   - There are 1.5 Ghoul Scarecrows for each PC (round up)
 
 ### A1 Barn (180xp, severe threat, though may split up)
-  - 3 Ghoul Scarecrows 
+  - 4 Ghoul Scarecrows 
   - Split them up or remove one Ghoul Scarecrow if your players are having difficulty with the paralysis effect
 
 ### A2 Farmhouse (120xp, moderate threat)
   - [Rogors Craesby Ghast](./Statblocks/RogorsCraesby.pdf)
   - ![Rogors Craesby Ghast PNG](./Statblocks/RogorsCraesby.png)
-  - 1 Ghoul Scarecrow
+  - 2 Ghoul Scarecrow
   - add another Ghoul Scarecrow if more than 4 PCs or your party relishes the challenge
   - note multiple incapacitation effects can quickly overpower
 ## Part 4: Misgivings (80+160+135+120+390=885xp, Party Level 5/6)
@@ -106,7 +106,7 @@ Extreme	| 240	      | 160
 ## Ruined Outbuildings (120xp, Party Level 5 or 6)
 
 ### B1 (120xp, moderate threat)
-  - For Carrionstorms use 4 [Undead Raven Swarms](http://2e.aonprd.com/Monsters.aspx?ID=782)
+  - For Carrionstorms use 6 [Undead Raven Swarms](http://2e.aonprd.com/Monsters.aspx?ID=782)
   - if party is level 6 add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790)
 
 ## Ground Floor (240xp, Party Level 5)
@@ -161,7 +161,7 @@ Extreme	| 240	      | 160
 ## Basement (410xp,Party Level 6)
 
 ### B25 (100xp, low threat)
-  - 4x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
+  - 8x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Rat Swarm](http://2e.aonprd.com/Monsters.aspx?ID=347)
 
 ### B29 (60xp, trivial threat)
   - Origins of Lichdom ![Origins of Lichdom PNG](./Statblocks/OriginsOfLichdom.png)
@@ -173,46 +173,47 @@ Extreme	| 240	      | 160
   - [Brown Mold](https://2e.aonprd.com/Hazards.aspx?ID=35)
 
 ### B34 (100xp, low threat)
-  - 2 [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) Rogors Craesby Ghasts (see above)
+  - 3 [Weak](http://2e.aonprd.com/Rules.aspx?ID=791) Rogors Craesby Ghasts (see above)
 
 ### B35 (120xp, moderate threat)
-  - 2 Rogors Craesby Ghasts (see above)
+  - 3 Rogors Craesby Ghasts (see above)
 
 ### B36 (60xp, trivial threat)
-  - 4 (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
+  - 6 (L2) [Goblin Ghast PDF](./Statblocks/GoblinGhast.pdf)
   - ![Goblin Ghast  PNG](./Statblocks/GoblinGhast.png)
    
 ### B37 (120xp, moderate threat)
   - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [The Skinsaw Man PDF](./Statblocks/TheSkinsawMan.pdf)
   - ![The Skinsaw Man PNG](./Statblocks/TheSkinsawMan.png)
-
+  -  Rogors Craesby Ghasts (see above)
+  -  
   - Vorel's Legacy ![Vorel's Legacy PNG](./Statblocks/VorelsLegacy.png)
 
 ## Part 5: Chasing The Skinsaw (90xp, Party Level 6)
 
 ### Foxglove Townhouse (120xp, moderate threat)
 
-  - **Creatures:** 3x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
+  - **Creatures:** 4x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
   - Foxglove's housekeeper/cook/sister is also present as the third stalker as best fits your narrative
 
 ## Part 6: The Seven's Sawmill (190-320xp, Party Level 7)
 
   - **Creatures:**
     - Add [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) to some of the cultists for a harder challenge and depending on encounter size.
-    - 13 (L4/5) [Cultist (False Priest)](http://2e.aonprd.com/NPCs.aspx?ID=928) wearing [Skinsaw Masks](https://2e.aonprd.com/Equipment.aspx?ID=817)
+    - 15 (L4/5) [Cultist (False Priest)](http://2e.aonprd.com/NPCs.aspx?ID=928) wearing [Skinsaw Masks](https://2e.aonprd.com/Equipment.aspx?ID=817)
     - Justice Ironbriar (L8) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/NPCs.aspx?ID=930)
 
 ## Part 7: Shadows of Time (285xp, Party Level 7)
 
 ### E1 (100xp, low threat)
-  - Scarecrow
+  - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): Scarecrow
   - ![Scarecrow PNG](./Statblocks/Scarecrow.png)
 
 ### E2 (15xp, trivial threat)
   - Falling Bell: Use the [Scythe Blades Hazard](https://2e.aonprd.com/Hazards.aspx?ID=6) with bludgeoning damage
 
 ### E3 (100xp, moderate threat)    
-  - 4x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
+  - 5x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
   - Use a suitable form for the stalkers to throw your players off balance and make it chaotic e.g. Xanesha's human form, Ironbriar, The Mayor, City Guard
 
 ### E6 (120-160xp, moderate to severe threat) 
@@ -224,4 +225,5 @@ Extreme	| 240	      | 160
   - ![Impaler of Thorns PNG](./Statblocks/ImpalerOfThorns.png)
   - [Medusa Mask](./Statblocks/MedusaMask.pdf) 
   - ![Medusa Mask PNG](./Statblocks/MedusaMask.png)
+  -  Cult leader (L8) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/NPCs.aspx?ID=930)
   # --- End of The Skinsaw Murders 2E Conversion Guide---
