@@ -314,6 +314,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - for eliminating the threat the catacombs pose to Sandpoint, award 30xp
 
+----------------------------------------------------------------------------------------------
+
 ## Part 4A. Thistletop Approach (500xp, assumed party level 3)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
@@ -324,8 +326,8 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - **Creatures:**
     - 12x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
-
-### C5. Kennel (180xp, severe threat, plus 40xp for terrain)
+    - 3x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
+### C5. Kennel (120xp, Moderate, plus 40xp for terrain)
 
   - **Creatures:**
     - 6x [Goblin Dog](http://2e.aonprd.com/Monsters.aspx?ID=236) 
@@ -334,8 +336,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 ### C6/7. Tangletooth's Den and Gogmurt's Lair (120xp, moderate threat, plus 40xp for terrain)
   - Note that Gogmurt might be a good choice to start a goblin PC if that is wanted in your campaign. 
   - **Creatures:**
-  -  - 1x [Goblin War Chanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
-    - During Combat The warchanter casts bless and then uses her goblin song once each round until all PCs have been targeted. She rallies the goblins to focus on any PC who seems to be particularly dangerous. If she is wounded she casts soothe on herself.
+    - 1x [Goblin chef]([http://2e.aonprd.com/Monsters.aspx?ID=235](https://2e.aonprd.com/NPCs.aspx?ID=3640))
     -  1x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
     - ![Gogmurt PNG](./Statblocks/Gogmurt.png)
