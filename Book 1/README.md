@@ -314,7 +314,7 @@ If you need any stats for NPCs then the GMG has a [good selection of NPCs](https
 
   - for eliminating the threat the catacombs pose to Sandpoint, award 30xp
 
-## Part 4A. Thistletop Approach (500xp, assumed party level 2)
+## Part 4A. Thistletop Approach (500xp, assumed party level 3)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
   - Shalelu should have forewarned them and consider having her accompany them to provide tactical advice and/or combat support - though in a background way that does not take away from the party achievements. Use an appropriate level Shalelu, possibly GMG Weak/Normal/Elite [Tracker](https://2e.aonprd.com/NPCs.aspx?ID=906) 
