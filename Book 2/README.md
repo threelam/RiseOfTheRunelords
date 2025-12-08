@@ -226,5 +226,6 @@ Extreme	| 240	      | 160
   - [Medusa Mask](./Statblocks/MedusaMask.pdf) 
   - ![Medusa Mask PNG](./Statblocks/MedusaMask.png)
   -  Cult leader (L8) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/NPCs.aspx?ID=930)
-  -  Skinsaw cultist ()[Elite]([https://2e.aonprd.com/NPCs.aspx?ID=3534](http://2e.aonprd.com/Rules.aspx?ID=790):[Cultist](https://2e.aonprd.com/NPCs.aspx?ID=3534)
+  -  4x Skinsaw cultist(L1) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790):[Cultist](https://2e.aonprd.com/NPCs.aspx?ID=3534)
+  -  4x Skinsaw Murderer(L6) [Skinsaw murderer](https://2e.aonprd.com/NPCs.aspx?ID=2492)
   # --- End of The Skinsaw Murders 2E Conversion Guide---
