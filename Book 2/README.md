@@ -216,7 +216,7 @@ Extreme	| 240	      | 160
   - 5x (L5) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Faceless Stalkers](http://2e.aonprd.com/Monsters.aspx?ID=4)
   - Use a suitable form for the stalkers to throw your players off balance and make it chaotic e.g. Xanesha's human form, Ironbriar, The Mayor, City Guard
 
-### E6 (120-160xp, moderate to severe threat) 
+### E6 (180xp, severe threat) 
   - Note the terrain here adds to the threat level
   - Xanesha (L9) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Lamia Matriarch](http://2e.aonprd.com/Monsters.aspx?ID=278)
     - Add Feather Fall to her prepared spells
@@ -226,4 +226,5 @@ Extreme	| 240	      | 160
   - [Medusa Mask](./Statblocks/MedusaMask.pdf) 
   - ![Medusa Mask PNG](./Statblocks/MedusaMask.png)
   -  Cult leader (L8) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Cult Leader](http://2e.aonprd.com/NPCs.aspx?ID=930)
+  -  Skinsaw cultist ()[Elite]([https://2e.aonprd.com/NPCs.aspx?ID=3534](http://2e.aonprd.com/Rules.aspx?ID=790):[Cultist](https://2e.aonprd.com/NPCs.aspx?ID=3534)
   # --- End of The Skinsaw Murders 2E Conversion Guide---
