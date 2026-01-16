@@ -127,12 +127,13 @@ Encounters include scaling for level 8 parties.
    - +1 striking [corrosive](https://2e.aonprd.com/Equipment.aspx?ID=292) spear [P8]
    - [Dragon Breath Potion (young red)](https://2e.aonprd.com/Equipment.aspx?ID=185) [C7]
 
-### The Graul Farm (XP 80, moderate threat)
+### The Graul Farm (XP 120, moderate threat)
   - **Creatures:** 
     - [Crowfood Graul PDF](./Statblocks/CrowfoodGraul.pdf)  
 
     ![Crowfood Graul PNG](./Statblocks/CrowfoodGraul.png)
-  
+    
+  	- [Wolf Pack](https://2e.aonprd.com/Monsters.aspx?ID=3943)
     - If the party is not Level 8 yet, consider applying the weak template to Crowfood.
 
   - **Loot:**
