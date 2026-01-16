@@ -120,7 +120,10 @@ Encounters include scaling for level 8 parties.
     - [Rukus Graul PDF](./Statblocks/RukusGraul.pdf)  
 
       ![Rukus Graul PNG](./Statblocks/RukusGraul.png)
+    
+  	- [Wolf Pack](https://2e.aonprd.com/Monsters.aspx?ID=3943)
   
+     
     - If the party is not Level 8 yet, consider applying the weak template to Rukus.
 
  - **Loot:**
@@ -132,8 +135,7 @@ Encounters include scaling for level 8 parties.
     - [Crowfood Graul PDF](./Statblocks/CrowfoodGraul.pdf)  
 
     ![Crowfood Graul PNG](./Statblocks/CrowfoodGraul.png)
-    
-  	- [Wolf Pack](https://2e.aonprd.com/Monsters.aspx?ID=3943)
+
     - If the party is not Level 8 yet, consider applying the weak template to Crowfood.
 
   - **Loot:**
