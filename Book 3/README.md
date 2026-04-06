@@ -296,7 +296,7 @@ The other unique ogres are covered individually below.
 ### B4. Old Guard Post (XP 70, moderate threat)
   - **Creatures:** 
     - Kreeg Boss
-    - 2x Kreeg Warriors
+    - 4x Kreeg Warriors
     - Adjustment for level 9 - add 2x Kreeg Warriors
 
   - **Loot:** +1 Ogre Hook
@@ -305,6 +305,7 @@ The other unique ogres are covered individually below.
   
   - **Creatures:**
     - Kreg Boss
+    - Kreg Warrior
     - Adjustment for level 9 - add 1x Kreeg Warrior
 
   - **Loot:** +1 Ogre Hook
@@ -317,7 +318,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:** 
     - Kreeg Boss
-    - Kreeg Warrior
+    - 3 Kreeg Warrior
     - Adjustment for level 9 - add 2x Kreeg Warriors*
 
   - **Loot:** +1 Ogre Hook
@@ -325,7 +326,7 @@ The other unique ogres are covered individually below.
 ### B12. Barracks (XP 120 severe threat)
 
   - **Creatures:**
-    - 8x Sleeping Kreeg Warriors
+    - 12x Sleeping Kreeg Warriors
     - Adjustment for level 9 - add 4x Kreeg Warriors
 
 ### B13. Secret Armory (XP20, trivial threat)
@@ -345,7 +346,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - [Specter](https://2e.aonprd.com/Monsters.aspx?ID=812)
-    - Kreeg Warrior Thrall under control of Lorgus
+    - 2 Kreeg Warrior Thrall under control of Lorgus
     - Note that the Spectral Corruption ability has the **incapacitation** trait and as the Specter is lower-level than the party the critical failure result wont occur on any PCs, though may affect any accompanying black arrows or Shalelu. 
     - Adjustment for level 9 - add a second Kreeg Warrior Thrall
 
@@ -355,6 +356,7 @@ The other unique ogres are covered individually below.
 
   - **Creatures:**
     - Kreeg Boss
+    - Kreeg Warrior
     - Adjustment for level 9 - add 1x Kreeg Warrior
 
   - **Loot:** +1 Ogre Hook
@@ -362,7 +364,7 @@ The other unique ogres are covered individually below.
 ### B19. Armory (XP 30, trivial threat)
 
   - **Creatures:**
-    - 2x Kreeg Warrior
+    - 3x Kreeg Warrior
     - Adjustment for level 9 - add 1x Kreeg Warrior
     
 ### B23. Library (XP 40/30, trivial threat)
@@ -374,7 +376,7 @@ The other unique ogres are covered individually below.
 ### B24. Barracks (XP 60, low threat)
 
   - **Creatures:**
-    - 4x Kreeg Warriors
+    - 2x Kreeg Warriors
     - Adjustment for level 9 - add 2x Kreeg Warriors
 
 ### B29. Chapel (XP 80/60, moderate/low threat)
@@ -399,6 +401,7 @@ The other unique ogres are covered individually below.
 
     ![Dorella Kreeg](./Statblocks/DorellaKreeg.png)
 
+  	- Kreeg Boss
   - **Encounter Notes:**
     - Adjustment for level 9 - add 1x Kreeg Boss
     - B29 and B30 are likely to run together and become a severe to extreme threat. If they do then don't add any more reinforcements unless you are sure they can handle them.
@@ -410,7 +413,7 @@ The other unique ogres are covered individually below.
 ### B31. Tribunal (XP 30, trivial threat)
 
   - **Creatures:**
-    - 2x Kreeg  Warriors
+    - 3x Kreeg  Warriors
     - Adjustment for level 9 - add 1x Kreeg Warrior
 
 ### B32. Map Room
@@ -449,7 +452,7 @@ The other unique ogres are covered individually below.
 ### B37. Lizard Warrens (XP 40, low threat)
 
   - **Creatures:** 
-    - 8x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
+    - 16x [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shocker Lizard](https://2e.aonprd.com/Monsters.aspx?ID=802)
     - Adjustment for level 9 - add 8x Shocker Lizards
 
 ### Liberating Fort Rannick (XP 80 story award and hero point)
@@ -461,7 +464,7 @@ The other unique ogres are covered individually below.
 
 ### Saving the Schoolchildren (XP 30, trivial threat, +10xp story award)
   - **Creatures:** 
-    - 1x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
+    - 2x [Giant Anaconda](https://2e.aonprd.com/Monsters.aspx?ID=382)
   - **Encounter Notes:**    
     - For saving the children award an additional 10xp, and gain the gratitude of their parents - which improves the attitude of everyone in Turtleback Ferry towards them for any social interaction checks
 
@@ -492,7 +495,7 @@ The other unique ogres are covered individually below.
 ### C6. Ogre Demolition Crew (XP 70, moderate threat with potentially severe terrain)
 
   - **Creatures:**
-    - 1x Kreeg Boss
+    - 2x Kreeg Boss
     - 4x Kreeg Warriors
     
     - **Loot:** +1 Ogre Hook
